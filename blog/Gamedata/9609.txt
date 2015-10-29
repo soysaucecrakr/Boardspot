@@ -1,5 +1,4 @@
-War of the Ring (first edition)			'2-4'			12			'180 minutes'			Adventure/Dice/Fantasy/Novel-based/Territory Building/Wargame/
-In War of the Ring, one player takes control of the Free Peoples (FP), the other player controls Shadow Armies (SA).
+War of the Ring (first edition)			'2-4'			12			'180 minutes'			Adventure/Dice/Fantasy/Novel-based/Territory Building/Wargame/			In War of the Ring, one player takes control of the Free Peoples (FP), the other player controls Shadow Armies (SA).
 
 Initially, the Free People Nations are reluctant to take arms against Sauron, so they must be attacked by Sauron or persuaded by Gandalf or other Companions, before they start to fight properly: this is represented by the Political Track, which shows if a Nation is ready to fight in the War of the Ring or not.
 

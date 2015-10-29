@@ -48,6 +48,6 @@ for line in range(0, 50):
 	gamefile = number + '.txt'
 	with open(gamefile, 'w+') as f:
 		f.write(gamename + '\t' + '\t' + '\t' + players + '\t' + '\t' + '\t' 
-		+ ages + '\t' + '\t' + '\t' + time + '\t' + '\t' + '\t' + genrename + '\n' 
-		+ description)
+		+ ages + '\t' + '\t' + '\t' + time + '\t' + '\t' + '\t' + genrename + '\t'
+		+ '\t' + '\t' + description)
 		f.close()
