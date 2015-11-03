@@ -1,4 +1,4 @@
-Russian Railroads			'2-4'			12			'90-120 minutes'			Industry / Manufacturing/Trains/			In Russian Railroads, players compete in an exciting race to build the largest and most advanced railway network. In order to do so, the players appoint their workers to various important tasks.
+Russian Railroads#'2-4'#12 and up#'90-120 minutes'#Industry / Manufacturing/Trains/#In Russian Railroads, players compete in an exciting race to build the largest and most advanced railway network. In order to do so, the players appoint their workers to various important tasks.
 
 The development of simple tracks will quickly bring the players to important places, while the modernization of their railway network will improve the efficiency of their machinery. Newer locomotives cover greater distances and factories churn out improved technology. Engineers, when used effectively, can be the extra boost that an empire needs to race past the competition.
 

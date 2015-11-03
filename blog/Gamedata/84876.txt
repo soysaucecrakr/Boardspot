@@ -1,4 +1,4 @@
-The Castles of Burgundy			'2-4'			12			'30-90 minutes'			Dice/Medieval/Territory Building/			The game is set in the Burgundy region of High Medieval France. Each player takes on the role of an aristocrat, originally controlling a small princedom. While playing they aim to build settlements and powerful castles, practice trade along the river, exploit silver mines, and use the knowledge of travelers.
+The Castles of Burgundy#'2-4'#12 and up#'30-90 minutes'#Dice/Medieval/Territory Building/#The game is set in the Burgundy region of High Medieval France. Each player takes on the role of an aristocrat, originally controlling a small princedom. While playing they aim to build settlements and powerful castles, practice trade along the river, exploit silver mines, and use the knowledge of travelers.
 
 The game is about players taking settlement tiles from the game board and placing them into their princedom which is represented by the player board. Every tile has a function that starts when the tile is placed in the princedom. The princedom itself consists of several regions, each of which demands its own type of settlement tile.
 

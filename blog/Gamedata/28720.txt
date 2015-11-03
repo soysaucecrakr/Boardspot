@@ -1,4 +1,4 @@
-Brass			'3-4'			13			'120-180 minutes'			Economic/Industry / Manufacturing/Transportation/			In Brass the players represent industrialists in northern England during the heyday of the industrial revolution.  Each player needs to build an economic engine that surpasses the other by the time railways are established and the foreign markets have been saturated with English cotton.
+Brass#'3-4'#13 and up#'120-180 minutes'#Economic/Industry / Manufacturing/Transportation/#In Brass the players represent industrialists in northern England during the heyday of the industrial revolution.  Each player needs to build an economic engine that surpasses the other by the time railways are established and the foreign markets have been saturated with English cotton.
 
 The goal of the game is to have the most points at the end of the game.  These are obtained in three ways: 
 1) Building industries and having them successfully utilized 

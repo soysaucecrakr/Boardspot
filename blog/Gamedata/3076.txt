@@ -1,4 +1,4 @@
-Puerto Rico			'2-5'			12			'90-150 minutes'			City Building/Economic/Farming/			In Puerto Rico players assume the roles of colonial governors on the island of Puerto Rico. The aim of the game is to amass victory points by shipping goods to Europe or by constructing buildings.
+Puerto Rico#'2-5'#12 and up#'90-150 minutes'#City Building/Economic/Farming/#In Puerto Rico players assume the roles of colonial governors on the island of Puerto Rico. The aim of the game is to amass victory points by shipping goods to Europe or by constructing buildings.
 
 Each player uses a separate small board with spaces for city buildings, plantations, and resources. Shared between the players are three ships, a trading house, and a supply of resources and doubloons.
 
