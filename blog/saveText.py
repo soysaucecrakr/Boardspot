@@ -37,13 +37,13 @@ for line in range(0, 50):
 		genrename = genrename + href.contents[0] + '/'
 
 	description = soup.find("meta", {"name":"description"})['content']
-	description = description.strip('\n')
 	description = description.replace("&amp;quot;", "")
 	description = description.replace("&amp;ndash;", "")
 	description = description.replace("&#039;", "")
 	description = description.replace("&amp&amp", "")
 	description = description.replace("&quot;&ndash", "")
 	description = description.replace("&ndash;", "")
+	description = description.replace('\n', "")
 	print (gamename)
 	gamefile = number + '.txt'
 	with open(gamefile, 'w+') as f:
