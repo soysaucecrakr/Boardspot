@@ -77,6 +77,7 @@ WSGI_APPLICATION = 'mysite.wsgi.application'
 
 DATABASES = {
     'default': {
+        'TEST_NAME': 'huffkg$test_boardsp0t',
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'huffkg$boardsp0t',
         'USER': 'huffkg',
