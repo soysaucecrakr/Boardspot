@@ -77,12 +77,8 @@ WSGI_APPLICATION = 'mysite.wsgi.application'
 
 DATABASES = {
     'default': {
-        'TEST_NAME': 'huffkg$test_boardsp0t',
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'huffkg$boardsp0t',
-        'USER': 'huffkg',
-        'PASSWORD': 'kyleandnick',
-        'HOST':'huffkg.pythonanywhere.com',
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     }
 }
 
